@@ -1,3 +1,4 @@
+//Cartesian Virtual Topology in MPI.
 #include <mpi.h>
 #include <stdio.h>
 
