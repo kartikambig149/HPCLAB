@@ -1,3 +1,4 @@
+//Multiply two square matrices (1000,2000 or 3000dimensions).
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
