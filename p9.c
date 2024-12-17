@@ -1,3 +1,4 @@
+// blocking send/receive routines and nonblocking send/receive routines. 
 #include <mpi.h>
 #include <stdio.h>
 #include <stdlib.h>
