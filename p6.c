@@ -1,3 +1,4 @@
+//total number of mangoes picked by n robots
 #include <mpi.h>
 #include <stdio.h>
 #include <stdlib.h>
